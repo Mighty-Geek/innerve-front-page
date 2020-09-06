@@ -84,7 +84,7 @@
     opacity: 1;
   }
 
-  @media screen and (max-width: 818px) {
+  @media screen and (max-width: 1170px) {
   
     *{
         overflow-x: hidden;
